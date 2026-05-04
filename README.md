@@ -14,9 +14,9 @@ Uneven distribution of parallel motor wear due to imbalanced load distribution.
 - Breadboard/Wires
 
 ### Setup
-Wire the two motors to the IC IAW the schematic
-Wire the output to the Arduino
-Upload the driver code
+1. Wire the two motors to the IC IAW the schematic
+2. Wire the output to the Arduino
+3. Upload the driver code
 
 Contribution: Circuit setup and debugging
 
